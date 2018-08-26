@@ -1,3 +1,16 @@
+layout_spectrum: 0.5725904357945085
+typography_spectrum: 0.2840118769018699
+color:
+  brandStrength: 0.7801177835822253
+  lightness: 0.5258790373910993
+  saturation: 0.002046292246605205
+  rhythmicContrast: 0.16517448086964687
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: Jack & Bella
-layout_spectrum: 0.028054325375705957
-typography_spectrum: 0.7829703956376761
-color:
-  brandStrength: 0.7582020896952599
-  lightness: 0.45267463894560933
-  saturation: 0.7988642069976777
-  rhythmicContrast: 0.5458641280420125
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
