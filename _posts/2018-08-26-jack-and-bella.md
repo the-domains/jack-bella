@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-08-26T17:11:36.344Z'
-dateModified: '2018-08-26T17:11:17.673Z'
+datePublished: '2018-08-26T17:20:19.100Z'
+dateModified: '2018-08-26T17:19:44.639Z'
 description: >-
   Did you know? …According to Wiki, there are 305 breeds of domestic rabbits,
   originating and living in 70 countries around the world.
@@ -21,9 +21,9 @@ _type: Article
 
 ### Once upon a time it was just the two of us.
 ![We were...hmm...a month old?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e217328a-d23a-4ce4-9042-e2c991afbdd4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/27bf866d-2849-4577-b56a-131dd38940aa.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1bf4f4a3493ddf53cb682ccb9ae454d4/croprotate.jpg?cropheight=749&cropwidth=1008&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9057738d-5082-4650-98a9-d5e6ad16b596.jpg&x=8&y=0)
 
-## In case you don't know, we are Netherland Dwarfs. I think our parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents? ...what the ?
+## In case you didn't know, we are Netherland Dwarfs. I think our parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents.......... ha ha ha, Champagne D'Argents? ...what the ?
 ![We grew up in the same hood. The bunny hq did say we are not related. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7ad85891a06d3c71e3cf2d7d4cdd362c720b48.jpg)
 
 Did you know? ...According to Wiki, there are 305 breeds of domestic rabbits, originating and living in 70 countries around the world.
