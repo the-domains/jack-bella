@@ -1,0 +1,29 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Jack & Bella
+layout_spectrum: 0.028054325375705957
+typography_spectrum: 0.7829703956376761
+color:
+  brandStrength: 0.7582020896952599
+  lightness: 0.45267463894560933
+  saturation: 0.7988642069976777
+  rhythmicContrast: 0.5458641280420125
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+content: []
+github: true
+favicon: null
+url: 'http://jacknbella.website'
+author:
+  name: JacknBella
+  email: JB@idcsg.com
+  url: 'http://jacknbella.website'
