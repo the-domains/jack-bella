@@ -29,3 +29,7 @@ author:
   url: 'http://jacknbella.website'
 title: Jack&Bella
 description: Bad Bunny Chronicles
+purpose:
+  - type: contact
+    url: 'mailto:jB@idcsg.com'
+    label: Contact
