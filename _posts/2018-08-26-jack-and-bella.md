@@ -1,10 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-08-27T03:55:54.008Z'
-dateModified: '2018-08-27T03:55:53.122Z'
+datePublished: '2018-08-27T04:08:50.856Z'
+dateModified: '2018-08-27T04:08:48.764Z'
 description: >-
-  Did you know? …According to Wiki, there are 305 breeds of domestic rabbits,
-  originating and living in 70 countries around the world. 
+  That's me with Jack. He was born with mustache, like Erol Flynn….Our mum said
+  so. We were born on the same day with many others in the same hood but the
+  rabbit head quarter says we are not from the same parents. Interesting !
 via: {}
 sourcePath: _posts/2018-08-26-jack-and-bella.md
 title: Jack and Bella
@@ -23,14 +24,19 @@ _type: Article
 
 ### Here we are at the bunny place....we 4 weeks old.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e217328a-d23a-4ce4-9042-e2c991afbdd4.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1781fe90-bb36-4312-a231-f90276511dbc.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f3d4fdc610d49576cfd2ae92ca411a69/croprotate.jpg?cropheight=750&cropwidth=1008&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F874eb2ec-9dca-4ac5-86b9-7a29884d1858.jpg&x=8&y=0)
 
-## In case you don't know, we are Netherland Dwarfs. I think our parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents? ...what the ? ![We grew up in the same hood. The bunny hq did say we are not related. ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7ad85891a06d3c71e3cf2d7d4cdd362c720b48.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4824d3cd-5382-424c-92c7-5af633115464.jpg)
+## In case you don't know, we are Netherland Dwarfs. I think our parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents? ...what the ?
 
-Did you know? ...According to Wiki, there are 305 breeds of domestic rabbits, originating and living in 70 countries around the world. 
+That's me with Jack. He was born with mustache, like Erol Flynn....Our mum said so. We were born on the same day with many others in the same hood but the rabbit head quarter says we are not from the same parents. Interesting !
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7ad85891a06d3c71e3cf2d7d4cdd362c720b48.jpg)
+
+> Here's our birth certificates. We're pedigrees. Hey Jack what does that mean?
+
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d769981615c78244803352476b57d86b/croprotate.jpg?cropheight=689&cropwidth=1008&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5fb6cf3c1e83803aeb43aee35289b1ef824b5945.jpg&x=0&y=31)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d1efdf4f81b48feb3d8514e111edae6a/croprotate.jpg?cropheight=749&cropwidth=1008&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4824d3cd-5382-424c-92c7-5af633115464.jpg&x=8&y=0)
+
+Did you know? ...According to Wiki, there are 305 breeds of domestic rabbits, originating and living in 70 countries around the world.
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=51.83577752045248&amp;longitude=5.2734375&amp;zoom=3&amp;address=Netherlands" style=""></iframe>
 
-That's not where we live..it's where our great, great, great, great grandparents are from.
+Here's the place called "The Netherlands " . That's not where we live..it's where our great, great, great, great grandparents are from.
