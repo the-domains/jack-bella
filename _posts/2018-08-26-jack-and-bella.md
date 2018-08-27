@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-08-27T07:43:20.745Z'
-dateModified: '2018-08-27T07:43:19.333Z'
+datePublished: '2018-08-27T07:44:38.312Z'
+dateModified: '2018-08-27T07:44:37.436Z'
 description: >-
   That's me with Jack. He was born with a mustache, like Erol Flynn….Our mum
   (the one we adopted) said so. Jack and I were born on the same day with many
@@ -27,7 +27,8 @@ _type: Article
 allowed to leave till we were weaned off our mum.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e217328a-d23a-4ce4-9042-e2c991afbdd4.jpg)
 
-## In case you didn't know, we are Netherland Dwarfs. I think our parents (they're adopted) wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents? ...what the ?
+## In case you didn't know, we are Netherland Dwarfs. I think our new parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents?! 
+...what the ?
 
 That's me with Jack. He was born with a mustache, like Erol Flynn....Our mum (the one we adopted) said so. Jack and I were born on the same day with many others in the same hood but the rabbit head quarter said we are not from the same parents. Interesting !
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7ad85891a06d3c71e3cf2d7d4cdd362c720b48.jpg)
@@ -35,7 +36,7 @@ That's me with Jack. He was born with a mustache, like Erol Flynn....Our mum (th
 > Here's our birth certificates. We're pedigrees. Hey Jack what does that mean?
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d107a6cf7d6367114ab2e2e1bf8a06af49da79ca.jpg)
-![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/0e7fde8d059a2e41d493313ee7a2c78d/croprotate.jpg?cropheight=689&cropwidth=1008&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F7aa64e1e1fca910b6635008593f628701668b332.jpg&x=0&y=31)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/edfdfeda8b55de87ecdb0170bef8221fdfb709e9.jpg)
 
 Did you know? ...According to Wiki, there are 305 breeds of domestic rabbits, originating and living in 70 countries around the world.
 
