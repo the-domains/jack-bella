@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-08-27T07:42:08.020Z'
-dateModified: '2018-08-27T07:42:06.968Z'
+datePublished: '2018-08-27T07:43:20.745Z'
+dateModified: '2018-08-27T07:43:19.333Z'
 description: >-
   That's me with Jack. He was born with a mustache, like Erol Flynn….Our mum
   (the one we adopted) said so. Jack and I were born on the same day with many
@@ -23,7 +23,8 @@ _type: Article
 
 ## Once upon a time it was just the two of us.
 
-### Here we are at the bunny place....we were 4 weeks old but they told us we weren't allowed to leave till we were weaned off our mum.
+### Here we are at the bunny place....we were 4 weeks old but they told us we weren't 
+allowed to leave till we were weaned off our mum.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e217328a-d23a-4ce4-9042-e2c991afbdd4.jpg)
 
 ## In case you didn't know, we are Netherland Dwarfs. I think our parents (they're adopted) wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents? ...what the ?
