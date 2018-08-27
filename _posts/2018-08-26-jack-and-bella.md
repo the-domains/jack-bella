@@ -1,12 +1,11 @@
 ---
 publisher: {}
-datePublished: '2018-08-27T07:44:38.312Z'
-dateModified: '2018-08-27T07:44:37.436Z'
+datePublished: '2018-08-27T16:04:36.233Z'
+dateModified: '2018-08-27T16:04:34.579Z'
 description: >-
-  That's me with Jack. He was born with a mustache, like Erol Flynn….Our mum
-  (the one we adopted) said so. Jack and I were born on the same day with many
-  others in the same hood but the rabbit head quarter said we are not from the
-  same parents. Interesting !
+  In case you didn’t know, we are Netherland Dwarfs. I think our new parents
+  wanted something like a Holland Lop or some other thing like a Champagne
+  D’Argents……… ..ha ha ha, Champagne D’Argents?! …what the ?
 via: {}
 sourcePath: _posts/2018-08-26-jack-and-bella.md
 title: Jack and Bella
@@ -23,17 +22,15 @@ _type: Article
 
 ## Once upon a time it was just the two of us.
 
-### Here we are at the bunny place....we were 4 weeks old but they told us we weren't 
-allowed to leave till we were weaned off our mum.
+### Here we are at the bunny place....we were 4 weeks old but we had to hang around for another 4 weeks till we were weaned off our mum.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e217328a-d23a-4ce4-9042-e2c991afbdd4.jpg)
 
-## In case you didn't know, we are Netherland Dwarfs. I think our new parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents?! 
-...what the ?
+In case you didn't know, we are Netherland Dwarfs. I think our new parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents?! ...what the ?
 
-That's me with Jack. He was born with a mustache, like Erol Flynn....Our mum (the one we adopted) said so. Jack and I were born on the same day with many others in the same hood but the rabbit head quarter said we are not from the same parents. Interesting !
+That's me with Jack. He was born with a mustache, like Erol Flyn. That's what our new mum told us. Jack and I were born on the same day with many others in the same hood.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7ad85891a06d3c71e3cf2d7d4cdd362c720b48.jpg)
 
-> Here's our birth certificates. We're pedigrees. Hey Jack what does that mean?
+> Check out our birth certificates. We're pedigrees. Hey Jack what does that mean?
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/d107a6cf7d6367114ab2e2e1bf8a06af49da79ca.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/edfdfeda8b55de87ecdb0170bef8221fdfb709e9.jpg)
