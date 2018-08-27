@@ -1,11 +1,12 @@
 ---
 publisher: {}
-datePublished: '2018-08-27T04:08:50.856Z'
-dateModified: '2018-08-27T04:08:48.764Z'
+datePublished: '2018-08-27T07:21:42.153Z'
+dateModified: '2018-08-27T07:21:40.290Z'
 description: >-
-  That's me with Jack. He was born with mustache, like Erol Flynn….Our mum said
-  so. We were born on the same day with many others in the same hood but the
-  rabbit head quarter says we are not from the same parents. Interesting !
+  That's me with Jack. He was born with a mustache, like Erol Flynn….Our mum
+  (the one we adopted) said so. Jack and I were born on the same day with many
+  others in the same hood but the rabbit head quarter said we are not from the
+  same parents. Interesting !
 via: {}
 sourcePath: _posts/2018-08-26-jack-and-bella.md
 title: Jack and Bella
@@ -22,12 +23,12 @@ _type: Article
 
 ## Once upon a time it was just the two of us.
 
-### Here we are at the bunny place....we 4 weeks old.
+### Here we are at the bunny place....we were 4 weeks old but they told us we weren't allowed to leave till we were weaned off our mum.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e217328a-d23a-4ce4-9042-e2c991afbdd4.jpg)
 
-## In case you don't know, we are Netherland Dwarfs. I think our parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents? ...what the ?
+## In case you didn't know, we are Netherland Dwarfs. I think our parents (they're adopted) wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... ..ha ha ha, Champagne D'Argents? ...what the ?
 
-That's me with Jack. He was born with mustache, like Erol Flynn....Our mum said so. We were born on the same day with many others in the same hood but the rabbit head quarter says we are not from the same parents. Interesting !
+That's me with Jack. He was born with a mustache, like Erol Flynn....Our mum (the one we adopted) said so. Jack and I were born on the same day with many others in the same hood but the rabbit head quarter said we are not from the same parents. Interesting !
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7ad85891a06d3c71e3cf2d7d4cdd362c720b48.jpg)
 
 > Here's our birth certificates. We're pedigrees. Hey Jack what does that mean?
