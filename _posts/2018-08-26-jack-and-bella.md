@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-09-02T15:33:09.938Z'
-dateModified: '2018-09-02T15:33:08.364Z'
+datePublished: '2018-11-22T15:16:06.094Z'
+dateModified: '2018-11-22T15:16:05.588Z'
 description: >-
   Here we are at the Rabbit Hq ….we were 4 weeks old but they made us hang
   around for another 4 weeks till we were weaned off our mum.
@@ -11,8 +11,8 @@ title: Jack and Bella
 hasPage: true
 inFeed: true
 author: []
+datePublishedOriginal: '2018-11-22T15:16:06.094Z'
 starred: false
-datePublishedOriginal: '2018-08-26T15:08:46.090Z'
 url: jack-and-bella/index.html
 _type: Article
 
