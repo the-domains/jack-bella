@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-11-22T15:16:06.094Z'
-dateModified: '2018-11-22T15:16:05.588Z'
+datePublished: '2018-12-07T17:17:00.047Z'
+dateModified: '2018-12-07T17:16:58.188Z'
 description: >-
   Here we are at the Rabbit Hq ….we were 4 weeks old but they made us hang
   around for another 4 weeks till we were weaned off our mum.
@@ -11,8 +11,8 @@ title: Jack and Bella
 hasPage: true
 inFeed: true
 author: []
-datePublishedOriginal: '2018-11-22T15:16:06.094Z'
 starred: false
+datePublishedOriginal: '2018-08-26T15:08:46.090Z'
 url: jack-and-bella/index.html
 _type: Article
 
@@ -24,8 +24,9 @@ _type: Article
 Here we are at the Rabbit Hq ....we were 4 weeks old but they made us hang around for another 4 weeks till we were weaned off our mum.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e217328a-d23a-4ce4-9042-e2c991afbdd4.jpg)
 
-In case you didn't know, we are Netherland Dwarfs. I think our new parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents......... 
-..ha ha ha, Champagne D'Argents?! 
+In case you didn't know, we are Netherland Dwarfs. I think our new parents wanted something like a Holland Lop or some other thing like a Champagne D'Argents.........
+
+..ha ha ha, Champagne D'Argents?!
 
 That's me with Jack. He was born with a mustache, like Erol Flyn. We were born on the same day with many others in the same hood.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee7ad85891a06d3c71e3cf2d7d4cdd362c720b48.jpg)
@@ -40,4 +41,6 @@ Did you know? ...According to Wiki, there are 305 breeds of domestic rabbits, or
 
 <iframe src="https://the-grid.github.io/ed-location/?latitude=51.83577752045248&amp;longitude=5.2734375&amp;zoom=3&amp;address=Netherlands" style=""></iframe>
 
-Here's the place called "The Netherlands " . That's not where we live..it's where our great, great, great, great grandparents are from. We live in Singapore where temperatures can really kill a sensitive bunny.
+Here's the place called "The Netherlands " . That's not where we live..it's where our great, great, great, great grandparents are from. We live in Singapore where temperatures can really kill a sensitive bunny. 
+
+Netherland Dwarfs can't tolerate excessive changes in weather and temperatures. Anything above 90 degree fahrenheit can be dangerous . Good thing our parents have an aircon room which we can hang out in when it gets really hot.
