@@ -5,12 +5,12 @@ description: >-
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2019-01-12T15:50:28.458Z'
+dateModified: '2019-01-12T15:51:00.701Z'
 sourcePath: _posts/2018-08-26-jack-and-bella.md
 title: Jack and Bella
 hasPage: true
 author: []
-datePublished: '2019-01-12T15:50:29.412Z'
+datePublished: '2019-01-12T15:51:02.830Z'
 starred: false
 datePublishedOriginal: '2018-12-08T10:39:32.047Z'
 url: jack-and-bella/index.html
