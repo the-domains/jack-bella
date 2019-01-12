@@ -29,6 +29,9 @@ navigation:
   - name: The Beginning
     id: c2ca4e02-edee-4afb-8738-2bfdb9b427b7
     type: content
+  - name: Our First Week Home
+    id: f2b2119d-f504-492f-a369-476ea0248362
+    type: content
 favicon: null
 title: Jack&Bella
 content:
@@ -40,19 +43,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa838bac-0bb7-42f0-a34e-32f24610cad6.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -64,20 +67,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a8e1b00-22a4-4601-8ad8-02ec966fa668.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
