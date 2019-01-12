@@ -1,16 +1,16 @@
 ---
 publisher: {}
-dateModified: '2018-12-08T12:36:14.707Z'
+dateModified: '2019-01-12T15:04:40.151Z'
 via: {}
 description: ''
 title: 'That’s me hanging on the upper deck '
 hasPage: true
 inFeed: true
 author: []
-datePublished: '2018-12-08T12:36:20.239Z'
+datePublished: '2019-01-12T15:04:41.221Z'
+sourcePath: _posts/2018-12-08-thats-me-hanging-on-the-upper-deck.md
 starred: false
 datePublishedOriginal: '2018-12-08T12:36:20.239Z'
-sourcePath: _posts/2018-12-08-thats-me-hanging-on-the-upper-deck.md
 url: thats-me-hanging-on-the-upper-deck/index.html
 _type: Article
 
